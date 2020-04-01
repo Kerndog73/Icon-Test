@@ -23,6 +23,7 @@
 		45894D7F2434216D004A67C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		45894D812434216D004A67C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		45894D822434216D004A67C3 /* Icon_Test.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Icon_Test.entitlements; sourceTree = "<group>"; };
+		45894D882434271C004A67C3 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		45894D6924342168004A67C3 = {
 			isa = PBXGroup;
 			children = (
+				45894D882434271C004A67C3 /* screenshot.png */,
 				45894D7424342169004A67C3 /* Icon Test */,
 				45894D7324342169004A67C3 /* Products */,
 			);
